@@ -1,0 +1,17 @@
+# Java
+*.class
+*.jar
+
+# IDE
+.gradle
+.idea
+*.iml
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+/build/
+/bin/
+/out/
